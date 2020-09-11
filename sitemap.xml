@@ -2,21 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dongfengzui-z.github.io/2020/09/11/%E9%81%93%E6%AD%89%E6%9C%89%E7%94%A8%E7%9A%84%E8%AF%9D%E8%BF%98%E8%A6%81%E9%94%AE%E7%9B%98%E5%B9%B2%E5%98%9B/</loc>
+    
+    <lastmod>2020-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dongfengzui-z.github.io/2020/09/11/%E5%9B%BE%E7%89%87%E8%BD%ACbase64/</loc>
+    
+    <lastmod>2020-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dongfengzui-z.github.io/2020/09/11/%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9%90/</loc>
+    
+    <lastmod>2020-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dongfengzui-z.github.io/2020/09/11/html2canvas%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
+    
+    <lastmod>2020-09-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dongfengzui-z.github.io/2020/09/11/%E5%89%8D%E7%AB%AF%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6/</loc>
+    
+    <lastmod>2020-09-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://dongfengzui-z.github.io/yourdiy/index.html</loc>
-    
-    <lastmod>2020-09-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dongfengzui-z.github.io/2020/09/11/%E6%8A%80%E6%9C%AF/</loc>
-    
-    <lastmod>2020-09-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dongfengzui-z.github.io/2020/09/11/hello-world/</loc>
     
     <lastmod>2020-09-11</lastmod>
     
@@ -30,6 +51,27 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://dongfengzui-z.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2020-09-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dongfengzui-z.github.io/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/</loc>
+    <lastmod>2020-09-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dongfengzui-z.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2020-09-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 
   
